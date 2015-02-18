@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  18 FEB 2015 14:23
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  18 FEB 2015 14:39
 entering extended mode
 **AR2014_research.tex
 (C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.tex
@@ -595,7 +595,7 @@ ogy, Karolin-ska In-sti-tute; Sense-
  []
 
 [28 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/haptics.png>]
-Overfull \hbox (0.32658pt too wide) in paragraph at lines 597--604
+Overfull \hbox (0.32658pt too wide) in paragraph at lines 597--605
 \OT1/cmr/m/it/10 Abstract: \OT1/cmr/m/n/10 Three-dimensional im-ages are widely
  used in, for ex-am-ple, health
  []
@@ -607,10 +607,10 @@ File: figures/research/interactive_image_registration.png Graphic file (type pn
 g)
  <use figures/research/interactive_image_registration.png>
 Package pdftex.def Info: figures/research/interactive_image_registration.png us
-ed on input line 621.
+ed on input line 622.
 (pdftex.def)             Requested size: 224.2479pt x 136.47224pt.
  [29]
-Overfull \hbox (3.32463pt too wide) in paragraph at lines 629--636
+Overfull \hbox (3.32463pt too wide) in paragraph at lines 630--637
 \OT1/cmr/m/n/10 used in medicine. This has lead to an ever in-creas-ing flow of
  high-resolution,
  []
@@ -620,7 +620,7 @@ File: figures/research/SP_Screenshot.png Graphic file (type png)
 
 <use figures/research/SP_Screenshot.png>
 Package pdftex.def Info: figures/research/SP_Screenshot.png used on input line 
-640.
+641.
 (pdftex.def)             Requested size: 207.0021pt x 131.11697pt.
 
 
@@ -633,12 +633,12 @@ research/SP_Screenshot.png>]
 File: figures/research/wrist_2014.png Graphic file (type png)
 
 <use figures/research/wrist_2014.png>
-Package pdftex.def Info: figures/research/wrist_2014.png used on input line 672
+Package pdftex.def Info: figures/research/wrist_2014.png used on input line 673
 .
 (pdftex.def)             Requested size: 164.94127pt x 310.4979pt.
  [32] [33 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/wrist_20
 14.png>]
-Overfull \hbox (23.94508pt too wide) in paragraph at lines 723--724
+Overfull \hbox (23.94508pt too wide) in paragraph at lines 724--725
 []\OT1/cmr/m/n/10 We also sub-mit-ted a pa-per that de-scribes a method to com-
 bine the perturbation-
  []
@@ -650,7 +650,7 @@ bine the perturbation-
 File: figures/research/foce_all.png Graphic file (type png)
 
 <use figures/research/foce_all.png>
-Package pdftex.def Info: figures/research/foce_all.png used on input line 835.
+Package pdftex.def Info: figures/research/foce_all.png used on input line 836.
 (pdftex.def)             Requested size: 207.0021pt x 216.88239pt.
  [38
 
@@ -660,16 +660,13 @@ Package pdftex.def Info: figures/research/foce_all.png used on input line 835.
 File: figures/research/fritjof.pdf Graphic file (type pdf)
 
 <use figures/research/fritjof.pdf>
-Package pdftex.def Info: figures/research/fritjof.pdf used on input line 889.
+Package pdftex.def Info: figures/research/fritjof.pdf used on input line 890.
 (pdftex.def)             Requested size: 207.0021pt x 129.29329pt.
  [42 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/fritjof.pdf>]
  [43]
 (C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.aux)
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
@@ -692,7 +689,7 @@ r12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.
 pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on AR2014_research.pdf (43 pages, 19778117 bytes).
+Output written on AR2014_research.pdf (43 pages, 19778481 bytes).
 PDF statistics:
  244 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
