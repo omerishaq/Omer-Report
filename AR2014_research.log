@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  18 FEB 2015 16:34
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  18 FEB 2015 16:38
 entering extended mode
 **AR2014_research.tex
 (C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.tex
@@ -651,7 +651,7 @@ Missing character: There is no é in font cmr10!
 File: figures/research/foce_all.png Graphic file (type png)
 
 <use figures/research/foce_all.png>
-Package pdftex.def Info: figures/research/foce_all.png used on input line 812.
+Package pdftex.def Info: figures/research/foce_all.png used on input line 809.
 (pdftex.def)             Requested size: 207.0021pt x 216.88239pt.
  [38
 
@@ -661,7 +661,7 @@ Package pdftex.def Info: figures/research/foce_all.png used on input line 812.
 File: figures/research/fritjof.pdf Graphic file (type pdf)
 
 <use figures/research/fritjof.pdf>
-Package pdftex.def Info: figures/research/fritjof.pdf used on input line 866.
+Package pdftex.def Info: figures/research/fritjof.pdf used on input line 863.
 (pdftex.def)             Requested size: 207.0021pt x 129.29329pt.
  [42 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/fritjof.pdf>]
  [43]
