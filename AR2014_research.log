@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  18 FEB 2015 16:38
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  18 FEB 2015 16:43
 entering extended mode
 **AR2014_research.tex
 (C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.tex
@@ -647,34 +647,30 @@ bine the perturbation-
 
 ]
 Missing character: There is no é in font cmr10!
- [36] [37] <figures/research/foce_all.png, id=176, 264.99pt x 277.63725pt>
-File: figures/research/foce_all.png Graphic file (type png)
+ [36] [37] [38
 
-<use figures/research/foce_all.png>
-Package pdftex.def Info: figures/research/foce_all.png used on input line 809.
-(pdftex.def)             Requested size: 207.0021pt x 216.88239pt.
- [38
-
-] [39 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/foce_all.png
->] [40] [41]
-<figures/research/fritjof.pdf, id=190, 318.18875pt x 198.7425pt>
+] [39]
+<figures/research/fritjof.pdf, id=182, 318.18875pt x 198.7425pt>
 File: figures/research/fritjof.pdf Graphic file (type pdf)
 
 <use figures/research/fritjof.pdf>
-Package pdftex.def Info: figures/research/fritjof.pdf used on input line 863.
+Package pdftex.def Info: figures/research/fritjof.pdf used on input line 860.
 (pdftex.def)             Requested size: 207.0021pt x 129.29329pt.
- [42 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/fritjof.pdf>]
- [43]
+ [40 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/fritjof.pdf>]
+ [41]
 (C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 2485 strings out of 493921
- 36447 string characters out of 3144879
+ 2480 strings out of 493921
+ 36300 string characters out of 3144879
  80543 words of memory out of 3000000
- 5737 multiletter control sequences out of 15000+200000
+ 5733 multiletter control sequences out of 15000+200000
  8704 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,8n,24p,1911b,363s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -690,9 +686,9 @@ r12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.
 pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on AR2014_research.pdf (43 pages, 19109764 bytes).
+Output written on AR2014_research.pdf (41 pages, 18744961 bytes).
 PDF statistics:
- 243 PDF objects out of 1000 (max. 8388607)
+ 234 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 176 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 171 words of extra memory for PDF output out of 10000 (max. 10000000)
 
