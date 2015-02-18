@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  18 FEB 2015 14:06
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  18 FEB 2015 14:20
 entering extended mode
 **AR2014_research.tex
 (C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.tex
@@ -629,62 +629,54 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [30 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/interactive_im
 age_registration.png>] [31 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/
 research/SP_Screenshot.png>]
-<figures/research/wrist_project_figure1a.png, id=156, 249.2069pt x 401.72151pt>
-File: figures/research/wrist_project_figure1a.png Graphic file (type png)
-<use figures/research/wrist_project_figure1a.png>
-Package pdftex.def Info: figures/research/wrist_project_figure1a.png used on in
-put line 673.
-(pdftex.def)             Requested size: 137.9979pt x 222.4493pt.
+<figures/research/wrist_2014.png, id=156, 313.9228pt x 590.95781pt>
+File: figures/research/wrist_2014.png Graphic file (type png)
 
-<figures/research/wrist_project_figure1b.png, id=157, 476.59135pt x 768.27568pt
->
-File: figures/research/wrist_project_figure1b.png Graphic file (type png)
- <use figures/research/wrist_project_figure1b.png>
-Package pdftex.def Info: figures/research/wrist_project_figure1b.png used on in
-put line 675.
-(pdftex.def)             Requested size: 137.9979pt x 222.45427pt.
- [32] [33 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/wrist_pr
-oject_figure1a.png> <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/researc
-h/wrist_project_figure1b.png>] [34]
-Overfull \hbox (23.94508pt too wide) in paragraph at lines 738--739
+<use figures/research/wrist_2014.png>
+Package pdftex.def Info: figures/research/wrist_2014.png used on input line 672
+.
+(pdftex.def)             Requested size: 164.94127pt x 310.4979pt.
+ [32] [33 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/wrist_20
+14.png>]
+Overfull \hbox (23.94508pt too wide) in paragraph at lines 734--735
 []\OT1/cmr/m/n/10 We also sub-mit-ted a pa-per that de-scribes a method to com-
 bine the perturbation-
  []
 
-[35
+[34
 
-] [36] [37] [38]
-<figures/research/foce_all.png, id=182, 264.99pt x 277.63725pt>
+] [35] [36] [37]
+<figures/research/foce_all.png, id=176, 264.99pt x 277.63725pt>
 File: figures/research/foce_all.png Graphic file (type png)
 
 <use figures/research/foce_all.png>
-Package pdftex.def Info: figures/research/foce_all.png used on input line 850.
+Package pdftex.def Info: figures/research/foce_all.png used on input line 846.
 (pdftex.def)             Requested size: 207.0021pt x 216.88239pt.
- [39
+ [38
 
-] [40 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/foce_all.png
->] [41] [42]
-<figures/research/fritjof.pdf, id=196, 318.18875pt x 198.7425pt>
+] [39 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/foce_all.png
+>] [40] [41]
+<figures/research/fritjof.pdf, id=190, 318.18875pt x 198.7425pt>
 File: figures/research/fritjof.pdf Graphic file (type pdf)
 
 <use figures/research/fritjof.pdf>
-Package pdftex.def Info: figures/research/fritjof.pdf used on input line 904.
+Package pdftex.def Info: figures/research/fritjof.pdf used on input line 900.
 (pdftex.def)             Requested size: 207.0021pt x 129.29329pt.
- [43 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/fritjof.pdf>]
- [44]
+ [42 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/fritjof.pdf>]
+ [43]
 (C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2492 strings out of 493921
- 36844 string characters out of 3144879
+ 2487 strings out of 493921
+ 36567 string characters out of 3144879
  80553 words of memory out of 3000000
- 5743 multiletter control sequences out of 15000+200000
+ 5739 multiletter control sequences out of 15000+200000
  8704 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,12n,24p,1911b,408s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,8n,24p,1911b,363s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Omer\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\t
 crm1000.pk> <C:\Users\Omer\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
 \dpi600\tcbx1000.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
@@ -697,9 +689,9 @@ r12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.
 pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on AR2014_research.pdf (44 pages, 19960738 bytes).
+Output written on AR2014_research.pdf (43 pages, 19779771 bytes).
 PDF statistics:
- 250 PDF objects out of 1000 (max. 8388607)
+ 244 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 181 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
 
