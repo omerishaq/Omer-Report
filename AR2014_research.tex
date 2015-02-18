@@ -560,42 +560,21 @@ Petter Ranefall, Alexandra Pacureanu, Carolina W\"{a}hlby\\
 \item 
 \label{proj:CMS}
 \textbf{Haptics and its Applications to Medicine}\\
-Ingrid Carlbom, Stefan Seipel, Pontus Olsson, Fredrik Nysj\"{o}\\
-\ppartner{Stefan Johansson (Division of Microsystems Technology, UU and Teknovest AB); Jan-Micha{\'e}l Hirsch, Dept.~of Surgical Sciences, Oral \& Maxillofacial Surgery, UU and Consultant at Dept.~of Plastic- and Maxillofacial Surgery, UU Hospital; Andreas Thor, Dept.~of Surgical Sciences, Oral \& Maxillofacial Surgery, UU Hospital; Andres Rodriguez Lorenzo, Department of Surgical Sciences, Plastic Surgery, UU Hospital; PiezoMotors AB, SenseGraphics AB.}
-\ffunding{Dept.~of Surgical Sciences, Oral \& Maxillofacial Surgery, University Hospital}
-\pperiod{1301--}
-\aabstract{
+Ingrid Carlbom, Pontus Olsson, Fredrik Nysj\"{o}\\
+\ppartner{Stefan Johansson (Division of Microsystems Technology, UU and Teknovest AB); Jan-Micha{\'e}l Hirsch, Dept.~of Surgical Sciences, Oral \& Maxillofacial Surgery, UU and Consultant at Dept.~of Plastic- and Maxillofacial Surgery, UU Hospital; Andreas Thor, Dept.~of Surgical Sciences, Oral \& Maxillofacial Surgery, UU Hospital; Andres Rodriguez Lorenzo, Department of Surgical Sciences, Plastic Surgery, UU Hospital; PiezoMotors AB.}
+\ffunding{Dept.~of Surgical Sciences, Oral \& Maxillofacial Surgery, University Hospital; Thur\' eus Stiftelsen}
+\pperiod{1401--1412}
+\aabstract{This year we augmented the Uppsala Haptics-Assisted Surgery Planning (UHASP) system with virtual reconstruction of head and neck defects by fibula osteocutaneous free flaps (FOFF), including bone, vessels, and soft-tissue of the FOFF in the defect reconstruction. With the UHASP stereo graphics and haptic feedback, using patient-specific CT-angio data, the surgeons can plan bone resection, fibula design, recipient vessels selection, pedicle and perforator location selection, and skin-paddle configuration.
 
-\textit{Two Degrees-of-Freedom Haptic Gripper with Ultrasonic Piezoelectric Motors} Piezoelectric motors have a high force/mass ratio, which makes them a promising alternative to electromagnetic motors for actuation of haptic interfaces. We have previously developed and evaluated a haptic gripper actuated by a quasi-static piezoelectric motor, operating within the audible range. The evaluation highlighted two main areas for improvement: faster and quieter actuation. During the last year we have designed a new admittance-type haptic gripper (see Figure \ref{fig:haptic1}) with two degrees-of-freedom (DOF), actuated by ultrasonic piezoelectric motors with higher maximum speed and silent operation compared to quasi-static motors. The gripper provides one DOF for the thumb and one DOF for the remaining fingers. All DOFs are direct-drive, involving no mechanical gearing, to minimize backlash and friction. Two custom-made strain-gauge load cells, mounted on the motor axes, measure forces applied by the user.
+Two surgeons tested UHASP on four cases they had previously operated: three with composite mandibular defects and one with a composite cervical spine defect. (See Figure \ref{fig::haptics}) During the planning session, it became apparent that some problems encountered during the actual surgery could have been avoided. In one case, the fibula reconstruction was incomplete since the fibula had to be reversed and thus did not reach the temporal fossa. In another case, the fibula had to be rotated 180 degrees to correct the plate and screw placement in relation to the perforator. In the spinal case, difficulty in finding the optimal fibula shape and position required extra ischemia time. The surgeons found UHASP to be an efficient planning tool for FOFF reconstructions. The testing of alternative reconstructions to arrive at an optimal FOFF solution preoperatively potentially improves patient healing, function and aesthetics, and reduces operating room time.}
 
-\begin{figure}[!h]
+\begin{figure*}[!htbp]
 \centering
-\subfigure[]{\includegraphics[width=60mm,height=45mm]{figures/research/haptic1.png}}
-\subfigure[]{\includegraphics[width=60mm,height=45mm]{figures/research/haptic2.png}}
-\caption{\label{fig:haptic1} CAD model of haptic gripper seen from the front (left) and back (right).The ultrasonic piezoelectric motors (A) actuate one DOF for the thumb (B) and one DOF for the remaining fingers (C). The connector (D) may be used to attach the gripper to a commercial six DOF haptic arm, for a total of eight DOF.} 
-\end{figure}
-
-\textit{SplineGrip - An Eight Degrees-of-Freedom Flexible Haptic Sculpting Tool} SplineGrip is a flexible haptic sculpting tool that senses the articulation of the hand in two degrees-of-freedom (DOF) that we presented as a SIGGRAPH'13 poster. The tool is mounted on a commercial haptic device that tracks hand pose (position and orientation in six DOF) while simultaneously providing three DOF haptic feedback to the hand. The eight DOF input is mapped to the pose and shape of a virtual representation of a sculpting tool (Figure \ref{fig:haptic2}), offering versatile interaction with a virtual model.
-
-\begin{figure}[!h]
-\centering
-\subfigure[]{\includegraphics[width=29mm,height=50mm]{figures/research/haptic3.png}}
-\subfigure[]{\includegraphics[width=29mm,height=50mm]{figures/research/haptic4.png}}
-\subfigure[]{\includegraphics[width=29mm,height=50mm]{figures/research/haptic5.png}}
-\subfigure[]{\includegraphics[width=29mm,height=50mm]{figures/research/haptic6.png}}
-\caption{\label{fig:haptic2} Example of possible mapping between physical and virtual tool: (a) all fingers straight - the virtual sculpting tool becomes a line segment; (b) middle and ring fingers bent - the curvature of the tool changes; (c) thumb bent - the width of the tool changes; (d) both sensors bent - simultaneous control of curvature and width.} 
-\end{figure}
-\newpage
-\textit{Custom Mandibular Implants} Congenital mandibular bone defects or defects due to tumor resection or trauma often result in substantial functional and aesthetic problems. The use of titanium scaffold implants that may hold bone substitutes for patients that do not require soft tissue transfer has the potential to reduce morbidity, costs, and rehabilitation time.
-
-\begin{figure}[!h]
-\centering
-\includegraphics[width=125mm,height=32mm]{figures/research/haptic7.jpg}
-\caption{\label{fig:haptic3} Design steps: (a) initialization of the deformable model (blue). Its growth is constrained by a bounding surface (transparent) and the defect surfaces; (b) model growing; (c) fine-tuning and generation of scaffold structure; (d) plate design.} 
-\end{figure}
-
-We developed a semi-automatic method based on deformable models and haptics that allows the design and virtual testing of a scaffold implant before production. Using pre-segmented CT-data, a surgeon begins with virtual bone resection, using an interactive cutting tool, to give the defect region good load bearing contact surfaces. Next he/she positions the initial deformable model, which may be a simple sphere, in the defect region and places the bounding surface around the defect (Figure \ref{fig:haptic3}a). The system calculates external forces for the deformable model that expand it towards the defect contact surfaces and the bounding surface until it fills the defect (Figure \ref{fig:haptic3}b). The shape may be adjusted interactively. The surgeon may also refine the implant with the cutting tool and reposition it inside the defect relying on haptic feedback to perfect its fit. The system generates the scaffold structures of the implant (Figure \ref{fig:haptic3}c), and the surgeon may add fixation plates to the structure (Figure \ref{fig:haptic3}d).
-}
+\includegraphics[width=0.9\textwidth]{figures/research/haptics.png}
+\caption{The resulting plans for the four cases. The whole fibula with osteotomy positions and orientations are shown in relation to
+surrounding vessels to the left of each case.}
+\label{fig::haptics}
+\end{figure*}
 
 %----------------------------------------------------------------------------------------------------------------------------------------------
 
