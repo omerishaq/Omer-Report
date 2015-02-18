@@ -615,13 +615,13 @@ Robin Strand, Filip Malmberg\\
 \pperiod{1208--}
 \aabstract{In this project, we mainly process magnetic resonance tomography (MR) images. MR images are very useful in clinical use and in medical research, e.g., for analyzing the composition of the human body. At the division of Radiology, UU, a huge amount of MR data, including whole body MR images is acquired for research on the connection between the composition of the human body and disease.
 
-To compare volume images voxel by voxel, we develop image registration methods. For example, large scale analysis is enabled by image registration methods that utilizes, for example, segmented tissue (see, e.g., Project~\ref{project:medical_segmentation}) and anatomical landmarks. Another example is interactive image registration where a user can fine-tune the segmentation result by a user interface, see Figure~\ref{fig:interactive_image_registration}.}
+To compare volume images voxel by voxel, we develop image registration methods. For example, large scale analysis is enabled by image registration methods that utilizes, for example, segmented tissue (see, e.g., Project~\ref{project:medical_segmentation}) and anatomical landmarks. Based on this idea, we have developed Imiomics (imaging –omics) -- an image analysis concept, including image registration, that allows statistical and holistic analysis of whole-body image data. The Imiomics concept is holistic in three respects: (i) The whole body is analyzed, (ii) All collected image data is used in the analysis and (iii) It allows integration of all other collected non-imaging patient information in the analysis.}
 
-\begin{figure}[!htbp]
+\begin{figure*}[!htbp]
 \centering
-\includegraphics[width=0.65\textwidth]{figures/research/interactive_image_registration.png}
-\caption{\label{fig:interactive_image_registration} A screen-shot of the user interface of our software for interactive deformable registration. The target image and the transformed source image are displayed using a colored overlay in three orthogonal views. The user can deform the source image by clicking and dragging in any of the views, as shown in the screen-shot.}
-\end{figure}
+\includegraphics[width=0.9\textwidth]{figures/research/Imiomics_example.png}
+\caption{\label{fig:imiomics} An illustration of a correlation map obtained by Imiomics. In this example, point-wise correlations between local tissue volume and body fat mass (measured by bioelectrical impedance analysis, BIA).} 
+\end{figure*}
 
 % EEE
 \newpage
