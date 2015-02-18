@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  18 FEB 2015 17:13
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  18 FEB 2015 17:22
 entering extended mode
 **AR2014_research.tex
 (C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.tex
@@ -649,30 +649,75 @@ bine the perturbation-
 Missing character: There is no é in font cmr10!
  [36]
 Missing character: There is no – in font cmr10!
- [37] [38] [39
+ [37]
 
-] [40]
-<figures/research/fritjof.pdf, id=185, 318.18875pt x 198.7425pt>
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 819.
+
+
+<figures/research/cd03_0003_overlay_3d_gc.png, id=176, 262.9825pt x 174.6525pt>
+File: figures/research/cd03_0003_overlay_3d_gc.png Graphic file (type png)
+<use figures/research/cd03_0003_overlay_3d_gc.png>
+Package pdftex.def Info: figures/research/cd03_0003_overlay_3d_gc.png used on i
+nput line 823.
+(pdftex.def)             Requested size: 165.59853pt x 109.98102pt.
+
+<figures/research/d03_0003_Reg_Overlay_0015_cut.png, id=177, 464.73625pt x 376.
+40625pt>
+File: figures/research/d03_0003_Reg_Overlay_0015_cut.png Graphic file (type png
+)
+ <use figures/research/d03_0003_Reg_Overlay_0015_cut.png>
+Package pdftex.def Info: figures/research/d03_0003_Reg_Overlay_0015_cut.png use
+d on input line 829.
+(pdftex.def)             Requested size: 165.59853pt x 134.12196pt.
+
+<figures/research/sa_09_10_cut_3d_reg_overlay_gc.png, id=178, 268.00125pt x 167
+.62625pt>
+File: figures/research/sa_09_10_cut_3d_reg_overlay_gc.png Graphic file (type pn
+g)
+ <use figures/research/sa_09_10_cut_3d_reg_overlay_gc.png>
+Package pdftex.def Info: figures/research/sa_09_10_cut_3d_reg_overlay_gc.png us
+ed on input line 834.
+(pdftex.def)             Requested size: 165.59853pt x 103.57677pt.
+
+<figures/research/SA_09_10_cut_Reg_Overlay_0056_cut.png, id=179, 464.73625pt x 
+376.40625pt>
+File: figures/research/SA_09_10_cut_Reg_Overlay_0056_cut.png Graphic file (type
+ png)
+ <use figures/research/SA_09_10_cut_Reg_Overlay_0056_cut.png>
+Package pdftex.def Info: figures/research/SA_09_10_cut_Reg_Overlay_0056_cut.png
+ used on input line 840.
+(pdftex.def)             Requested size: 165.59853pt x 134.12196pt.
+
+[38] [39 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/cd03_0003
+_overlay_3d_gc.png (PNG copy)> <C:/Users/Omer/Documents/GitHub/Omer-Report/figu
+res/research/d03_0003_Reg_Overlay_0015_cut.png (PNG copy)> <C:/Users/Omer/Docum
+ents/GitHub/Omer-Report/figures/research/sa_09_10_cut_3d_reg_overlay_gc.png (PN
+G copy)> <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/SA_09_10_
+cut_Reg_Overlay_0056_cut.png (PNG copy)>] [40
+
+] [41]
+<figures/research/fritjof.pdf, id=192, 318.18875pt x 198.7425pt>
 File: figures/research/fritjof.pdf Graphic file (type pdf)
 
 <use figures/research/fritjof.pdf>
-Package pdftex.def Info: figures/research/fritjof.pdf used on input line 889.
+Package pdftex.def Info: figures/research/fritjof.pdf used on input line 937.
 (pdftex.def)             Requested size: 207.0021pt x 129.29329pt.
- [41 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/fritjof.pdf>]
- [42]
+ [42 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/fritjof.pdf>]
+ [43]
 (C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2479 strings out of 493921
- 36290 string characters out of 3144879
- 80533 words of memory out of 3000000
- 5732 multiletter control sequences out of 15000+200000
+ 2500 strings out of 493921
+ 37305 string characters out of 3144879
+ 80543 words of memory out of 3000000
+ 5749 multiletter control sequences out of 15000+200000
  8704 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,8n,24p,1911b,363s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,8n,24p,1911b,393s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Omer\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\t
 crm1000.pk> <C:\Users\Omer\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
 \dpi600\tcbx1000.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
@@ -685,9 +730,9 @@ r12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.
 pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on AR2014_research.pdf (42 pages, 18745333 bytes).
+Output written on AR2014_research.pdf (43 pages, 19180662 bytes).
 PDF statistics:
- 237 PDF objects out of 1000 (max. 8388607)
+ 245 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 171 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 191 words of extra memory for PDF output out of 10000 (max. 10000000)
 
