@@ -1,0 +1,915 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  18 FEB 2015 12:44
+entering extended mode
+**AR2014_research.tex
+("C:\Users\Omer\Desktop\2AFC Temporary\New folder\AR2014_research.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip43
+\subfigcapskip=\skip44
+\subfigcaptopadj=\dimen103
+\subfigbottomskip=\skip45
+\subfigcapmargin=\dimen104
+\subfiglabelskip=\skip46
+\c@subfigure=\count87
+\c@lofdepth=\count88
+\c@subtable=\count89
+\c@lotdepth=\count90
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
+\subfig@top=\skip47
+\subfig@bottom=\skip48
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\layout.sty"
+Package: layout 2000/09/25 v1.2c Show layout parameters
+\oneinch=\count91
+\cnt@paperwidth=\count92
+\cnt@paperheight=\count93
+\cnt@hoffset=\count94
+\cnt@voffset=\count95
+\cnt@textheight=\count96
+\cnt@textwidth=\count97
+\cnt@topmargin=\count98
+\cnt@oddsidemargin=\count99
+\cnt@evensidemargin=\count100
+\cnt@headheight=\count101
+\cnt@headsep=\count102
+\cnt@marginparsep=\count103
+\cnt@marginparwidth=\count104
+\cnt@marginparpush=\count105
+\cnt@footskip=\count106
+\fheight=\count107
+\ref@top=\count108
+\ref@hoffset=\count109
+\ref@voffset=\count110
+\ref@head=\count111
+\ref@body=\count112
+\ref@foot=\count113
+\ref@margin=\count114
+\ref@marginwidth=\count115
+\ref@marginpar=\count116
+\Interval=\count117
+\ExtraYPos=\count118
+\PositionX=\count119
+\PositionY=\count120
+\ArrowLength=\count121
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count122
+))
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+No file AR2014_research.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 24.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 24.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count123
+\scratchdimen=\dimen107
+\scratchbox=\box26
+\nofMPsegments=\count124
+\nofMParguments=\count125
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count126
+\MPscratchDim=\dimen108
+\MPnumerator=\count127
+\makeMPintoPDFobject=\count128
+\everyMPtoPDFconversion=\toks17
+)
+Overfull \hbox (22.5971pt too wide) in paragraph at lines 32--33
+\OT1/cmr/m/n/12 both long-running and short. Our largest ap-pli-ca-tion field i
+s biomedicine,
+ []
+
+
+LaTeX Warning: Reference `partners' on page 1 undefined on input line 34.
+
+
+LaTeX Warning: Reference `fig:diffraction' on page 1 undefined on input line 52
+.
+
+<figures/research/org.png, id=1, 804.00375pt x 402.50375pt>
+File: figures/research/org.png Graphic file (type png)
+
+<use figures/research/org.png>
+Package pdftex.def Info: figures/research/org.png used on input line 55.
+(pdftex.def)             Requested size: 170.77332pt x 85.49252pt.
+
+<figures/research/filt.png, id=2, 804.00375pt x 402.50375pt>
+File: figures/research/filt.png Graphic file (type png)
+
+<use figures/research/filt.png>
+Package pdftex.def Info: figures/research/filt.png used on input line 57.
+(pdftex.def)             Requested size: 170.77332pt x 85.49252pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--73
+
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2 <C:/Users/Omer/Desktop
+/2AFC Temporary/New folder/figures/research/org.png (PNG copy)> <C:/Users/Omer/
+Desktop/2AFC Temporary/New folder/figures/research/filt.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 95--100
+
+ []
+
+[3] [4]
+
+LaTeX Warning: Reference `proj:PVS1' on page 5 undefined on input line 137.
+
+
+Overfull \hbox (0.24129pt too wide) in paragraph at lines 132--138
+[]\OT1/cmr/bx/n/10 Identification of Highly Pathogenic Viruses in Trans-mis-sio
+n Elec-
+ []
+
+
+LaTeX Warning: Reference `fig:miniTEM' on page 5 undefined on input line 153.
+
+[5
+
+]
+
+LaTeX Warning: Reference `fig:miniTEM' on page 6 undefined on input line 153.
+
+<figures/research/miniTEMLarge.png, id=27, 1626.075pt x 1025.33063pt>
+File: figures/research/miniTEMLarge.png Graphic file (type png)
+
+<use figures/research/miniTEMLarge.png>
+Package pdftex.def Info: figures/research/miniTEMLarge.png used on input line 1
+57.
+(pdftex.def)             Requested size: 124.20021pt x 78.30455pt.
+
+<figures/research/miniTEMnanotubulescutwider.png, id=28, 770.12718pt x 357.5859
+4pt>
+File: figures/research/miniTEMnanotubulescutwider.png Graphic file (type png)
+ <use figures/research/miniTEMnanotubulescutwider.png>
+Package pdftex.def Info: figures/research/miniTEMnanotubulescutwider.png used o
+n input line 158.
+(pdftex.def)             Requested size: 165.59853pt x 76.89038pt.
+
+Overfull \hbox (0.72192pt too wide) in paragraph at lines 166--172
+[]\OT1/cmr/bx/n/10 Detection and Lo-cal-iza-tion of Flo-res-cent Sig-nals in ST
+ORM Data
+ []
+
+
+Overfull \hbox (5.99213pt too wide) in paragraph at lines 166--172
+\OT1/cmr/m/it/10 Abstract: \OT1/cmr/m/n/10 Stochas-tic op-ti-cal re-con-struc-t
+ion mi-croscopy (STORM) is a super-
+ []
+
+[6 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/miniTEMLar
+ge.png> <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/miniT
+EMnanotubulescutwider.png>]
+
+LaTeX Warning: Reference `fig:carolina_insitu' on page 7 undefined on input lin
+e 181.
+
+<figures/research/insitu.png, id=33, 428.802pt x 324.61275pt>
+File: figures/research/insitu.png Graphic file (type png)
+
+<use figures/research/insitu.png>
+Package pdftex.def Info: figures/research/insitu.png used on input line 185.
+(pdftex.def)             Requested size: 193.19916pt x 146.25269pt.
+
+Overfull \hbox (6.05444pt too wide) in paragraph at lines 192--198
+\OT1/cmr/m/it/10 Partners: \OT1/cmr/m/n/10 Carl-Magnus Claus-son, Linda An-der-
+s-son, Ola Soderberg, Dept. of
+ []
+
+[7 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/insitu.png
+>]
+
+LaTeX Warning: Reference `fig:Skeleton' on page 8 undefined on input line 211.
+
+<figures/research/kristina_fibula.png, id=39, 682.59015pt x 902.29095pt>
+File: figures/research/kristina_fibula.png Graphic file (type png)
+
+<use figures/research/kristina_fibula.png>
+Package pdftex.def Info: figures/research/kristina_fibula.png used on input lin
+e 215.
+(pdftex.def)             Requested size: 241.84729pt x 295.89827pt.
+
+
+LaTeX Warning: Reference `fig::stem_cells' on page 8 undefined on input line 22
+8.
+
+
+Overfull \hbox (0.73502pt too wide) in paragraph at lines 223--229
+\OT1/cmr/m/it/10 Partners: \OT1/cmr/m/n/10 Karin Forsberg-Nilsson, Tanja Paav-i
+-lainen, Soumi Kundu, Grze-
+ []
+
+[8] [9 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/kristi
+na_fibula.png>] <figures/research/stem1.png, id=46, 314.3745pt x 235.5345pt>
+File: figures/research/stem1.png Graphic file (type png)
+
+<use figures/research/stem1.png>
+Package pdftex.def Info: figures/research/stem1.png used on input line 232.
+(pdftex.def)             Requested size: 137.9979pt x 103.3947pt.
+
+<figures/research/stem2.png, id=47, 581.17125pt x 436.029pt>
+File: figures/research/stem2.png Graphic file (type png)
+
+<use figures/research/stem2.png>
+Package pdftex.def Info: figures/research/stem2.png used on input line 233.
+(pdftex.def)             Requested size: 137.9979pt x 103.53134pt.
+
+
+LaTeX Warning: Reference `fig:cornea' on page 10 undefined on input line 271.
+
+[10
+
+ <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/stem1.png> <
+C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/stem2.png>] <f
+igures/research/corneal_epithelium.png, id=53, 1117.20918pt x 404.712pt>
+File: figures/research/corneal_epithelium.png Graphic file (type png)
+
+<use figures/research/corneal_epithelium.png>
+Package pdftex.def Info: figures/research/corneal_epithelium.png used on input 
+line 275.
+(pdftex.def)             Requested size: 293.2521pt x 106.22922pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 277.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 277.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [11 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/corneal
+_epithelium.png (PNG copy)>]
+
+LaTeX Warning: Reference `fig:cerviscan' on page 12 undefined on input line 293
+.
+
+[12] <figures/research/cerviscan.png, id=61, 515.2851pt x 447.5922pt>
+File: figures/research/cerviscan.png Graphic file (type png)
+
+<use figures/research/cerviscan.png>
+Package pdftex.def Info: figures/research/cerviscan.png used on input line 297.
+
+(pdftex.def)             Requested size: 241.49895pt x 209.77417pt.
+ [13
+
+ <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/cerviscan.pn
+g (PNG copy)>] [14]
+Overfull \hbox (1.99226pt too wide) in paragraph at lines 362--373
+\OT1/cmr/m/it/10 Funding: \OT1/cmr/m/n/10 TN-faculty, UU; S-faculty, SLU; VIN-N
+-MER pro-gramme, Swedish
+ []
+
+[15]
+
+LaTeX Warning: Reference `testis' on page 16 undefined on input line 383.
+
+<figures/research/M1001cut.png, id=72, 578.16pt x 433.62pt>
+File: figures/research/M1001cut.png Graphic file (type png)
+
+<use figures/research/M1001cut.png>
+Package pdftex.def Info: figures/research/M1001cut.png used on input line 387.
+(pdftex.def)             Requested size: 276.00105pt x 206.9972pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[16] [17 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/M100
+1cut.png>] <figures/research/prostate2.png, id=81, 247.689pt x 164.907pt>
+File: figures/research/prostate2.png Graphic file (type png)
+
+<use figures/research/prostate2.png>
+Package pdftex.def Info: figures/research/prostate2.png used on input line 437.
+
+(pdftex.def)             Requested size: 327.74895pt x 218.20883pt.
+
+
+LaTeX Warning: Reference `fig:prostate2' on page 18 undefined on input line 437
+.
+
+[18 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/prostate2
+.png>] [19]
+
+LaTeX Warning: Reference `fig:prostate3' on page 20 undefined on input line 437
+.
+
+
+LaTeX Warning: Reference `fig:prostate4' on page 20 undefined on input line 437
+.
+
+<figures/research/prostate3.jpg, id=89, 142.8975pt x 150.453pt>
+File: figures/research/prostate3.jpg Graphic file (type jpg)
+
+<use figures/research/prostate3.jpg>
+Package pdftex.def Info: figures/research/prostate3.jpg used on input line 441.
+
+(pdftex.def)             Requested size: 172.5pt x 181.62857pt.
+
+<figures/research/prostate4.jpg, id=90, 707.64375pt x 348.30125pt>
+File: figures/research/prostate4.jpg Graphic file (type jpg)
+
+<use figures/research/prostate4.jpg>
+Package pdftex.def Info: figures/research/prostate4.jpg used on input line 447.
+
+(pdftex.def)             Requested size: 310.4979pt x 152.82785pt.
+ [20 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/prostate
+3.jpg>]
+
+LaTeX Warning: Reference `fig::zebrafish_curvature' on page 21 undefined on inp
+ut line 460.
+
+
+Overfull \hbox (5.59682pt too wide) in paragraph at lines 455--461
+[]\OT1/cmr/bx/n/10 Automated Quan-tifi-ca-tion of Ze-brafish Tail De-for-ma-tio
+n for High-
+ []
+
+
+Overfull \hbox (8.56299pt too wide) in paragraph at lines 455--461
+\OT1/cmr/m/it/10 Abstract: \OT1/cmr/m/n/10 Ze-brafish (\OT1/cmr/m/it/10 Danio r
+e-rio\OT1/cmr/m/n/10 ) is an im-por-tant model or-gan-ism in biomed-
+ []
+
+<figures/research/curvature1.png, id=94, 642.4pt x 513.92pt>
+File: figures/research/curvature1.png Graphic file (type png)
+
+<use figures/research/curvature1.png>
+Package pdftex.def Info: figures/research/curvature1.png used on input line 464
+.
+(pdftex.def)             Requested size: 103.50105pt x 82.79347pt.
+
+<figures/research/curvature2.png, id=95, 160.6365pt x 128.4435pt>
+File: figures/research/curvature2.png Graphic file (type png)
+
+<use figures/research/curvature2.png>
+Package pdftex.def Info: figures/research/curvature2.png used on input line 465
+.
+(pdftex.def)             Requested size: 103.50105pt x 82.76016pt.
+
+<figures/research/curvature3.png, id=96, 481.8pt x 385.44pt>
+File: figures/research/curvature3.png Graphic file (type png)
+
+<use figures/research/curvature3.png>
+Package pdftex.def Info: figures/research/curvature3.png used on input line 466
+.
+(pdftex.def)             Requested size: 103.50105pt x 82.79741pt.
+
+<figures/research/curvature4.png, id=97, 481.8pt x 385.44pt>
+File: figures/research/curvature4.png Graphic file (type png)
+
+<use figures/research/curvature4.png>
+Package pdftex.def Info: figures/research/curvature4.png used on input line 468
+.
+(pdftex.def)             Requested size: 103.50105pt x 82.79741pt.
+
+<figures/research/curvature5.png, id=98, 481.8pt x 385.44pt>
+File: figures/research/curvature5.png Graphic file (type png)
+
+<use figures/research/curvature5.png>
+Package pdftex.def Info: figures/research/curvature5.png used on input line 469
+.
+(pdftex.def)             Requested size: 103.50105pt x 82.79741pt.
+
+<figures/research/curvature6.png, id=99, 643.40375pt x 514.92375pt>
+File: figures/research/curvature6.png Graphic file (type png)
+
+<use figures/research/curvature6.png>
+Package pdftex.def Info: figures/research/curvature6.png used on input line 470
+.
+(pdftex.def)             Requested size: 103.50105pt x 82.82947pt.
+
+
+LaTeX Warning: Reference `fig:hamid' on page 21 undefined on input line 483.
+
+[21 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/prostate4
+.jpg>] <figures/research/lipid1.png, id=103, 515.9275pt x 513.92pt>
+File: figures/research/lipid1.png Graphic file (type png)
+
+<use figures/research/lipid1.png>
+Package pdftex.def Info: figures/research/lipid1.png used on input line 487.
+(pdftex.def)             Requested size: 125.18706pt x 125.18613pt.
+
+<figures/research/lipid2.png, id=104, 513.92pt x 515.9275pt>
+File: figures/research/lipid2.png Graphic file (type png)
+
+<use figures/research/lipid2.png>
+Package pdftex.def Info: figures/research/lipid2.png used on input line 488.
+(pdftex.def)             Requested size: 125.18613pt x 125.18706pt.
+ [22 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/curvatur
+e1.png> <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/curva
+ture2.png> <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/cu
+rvature3.png> <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research
+/curvature4.png> <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/resea
+rch/curvature5.png> <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/re
+search/curvature6.png> <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures
+/research/lipid1.png> <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/
+research/lipid2.png>]
+
+LaTeX Warning: Reference `fig::tomography_fish' on page 23 undefined on input l
+ine 501.
+
+
+LaTeX Warning: Reference `fig::tomography_cell' on page 23 undefined on input l
+ine 501.
+
+<figures/research/zf1.png, id=110, 109.719pt x 264.771pt>
+File: figures/research/zf1.png Graphic file (type png)
+
+<use figures/research/zf1.png>
+Package pdftex.def Info: figures/research/zf1.png used on input line 505.
+(pdftex.def)             Requested size: 73.98177pt x 156.4923pt.
+
+<figures/research/zf2.png, id=111, 248.42813pt x 578.16pt>
+File: figures/research/zf2.png Graphic file (type png)
+
+<use figures/research/zf2.png>
+Package pdftex.def Info: figures/research/zf2.png used on input line 506.
+(pdftex.def)             Requested size: 73.97557pt x 156.48462pt.
+
+<figures/research/zf3.png, id=112, 291.33844pt x 568.37344pt>
+File: figures/research/zf3.png Graphic file (type png)
+
+<use figures/research/zf3.png>
+Package pdftex.def Info: figures/research/zf3.png used on input line 507.
+(pdftex.def)             Requested size: 73.97691pt x 156.48964pt.
+
+<figures/research/zf4.png, id=113, 258.36525pt x 523.9575pt>
+File: figures/research/zf4.png Graphic file (type png)
+
+<use figures/research/zf4.png>
+Package pdftex.def Info: figures/research/zf4.png used on input line 508.
+(pdftex.def)             Requested size: 73.97783pt x 156.48491pt.
+
+<figures/research/cell1.png, id=114, 130.68825pt x 134.30174pt>
+File: figures/research/cell1.png Graphic file (type png)
+
+<use figures/research/cell1.png>
+Package pdftex.def Info: figures/research/cell1.png used on input line 515.
+(pdftex.def)             Requested size: 113.80951pt x 113.81477pt.
+
+<figures/research/cell2.png, id=115, 133.6995pt x 133.09724pt>
+File: figures/research/cell2.png Graphic file (type png)
+
+<use figures/research/cell2.png>
+Package pdftex.def Info: figures/research/cell2.png used on input line 516.
+(pdftex.def)             Requested size: 113.81238pt x 113.81352pt.
+ [23] [24 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/zf1
+.png> <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/zf2.png
+> <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/zf3.png> <C
+:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/zf4.png> <C:/Us
+ers/Omer/Desktop/2AFC Temporary/New folder/figures/research/cell1.png> <C:/User
+s/Omer/Desktop/2AFC Temporary/New folder/figures/research/cell2.png>] [25]
+
+LaTeX Warning: Reference `fig:gigapixel' on page 26 undefined on input line 539
+.
+
+<figures/research/gigapixel.png, id=131, 816.04875pt x 781.41937pt>
+File: figures/research/gigapixel.png Graphic file (type png)
+
+<use figures/research/gigapixel.png>
+Package pdftex.def Info: figures/research/gigapixel.png used on input line 543.
+
+(pdftex.def)             Requested size: 276.00105pt x 264.28403pt.
+ [26 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/gigapixe
+l.png>]
+
+LaTeX Warning: Reference `fig:haptic1' on page 27 undefined on input line 598.
+
+<figures/research/haptic1.png, id=136, 213.525pt x 156.366pt>
+File: figures/research/haptic1.png Graphic file (type png)
+
+<use figures/research/haptic1.png>
+Package pdftex.def Info: figures/research/haptic1.png used on input line 598.
+(pdftex.def)             Requested size: 170.72247pt x 128.04198pt.
+
+<figures/research/haptic2.png, id=137, 213.1965pt x 156.366pt>
+File: figures/research/haptic2.png Graphic file (type png)
+
+<use figures/research/haptic2.png>
+Package pdftex.def Info: figures/research/haptic2.png used on input line 598.
+(pdftex.def)             Requested size: 170.72008pt x 128.04198pt.
+
+
+LaTeX Warning: Reference `fig:haptic2' on page 27 undefined on input line 598.
+
+[27
+
+ <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/haptic1.png>
+ <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/haptic2.png>
+] <figures/research/haptic3.png, id=143, 241.27061pt x 344.6723pt>
+File: figures/research/haptic3.png Graphic file (type png)
+
+<use figures/research/haptic3.png>
+Package pdftex.def Info: figures/research/haptic3.png used on input line 598.
+(pdftex.def)             Requested size: 82.51318pt x 142.26848pt.
+
+<figures/research/haptic4.png, id=144, 240.15877pt x 344.6723pt>
+File: figures/research/haptic4.png Graphic file (type png)
+
+<use figures/research/haptic4.png>
+Package pdftex.def Info: figures/research/haptic4.png used on input line 598.
+(pdftex.def)             Requested size: 82.51039pt x 142.26848pt.
+
+<figures/research/haptic5.png, id=145, 241.27061pt x 344.6723pt>
+File: figures/research/haptic5.png Graphic file (type png)
+
+<use figures/research/haptic5.png>
+Package pdftex.def Info: figures/research/haptic5.png used on input line 598.
+(pdftex.def)             Requested size: 82.51318pt x 142.26848pt.
+
+<figures/research/haptic6.png, id=146, 240.15877pt x 344.6723pt>
+File: figures/research/haptic6.png Graphic file (type png)
+
+<use figures/research/haptic6.png>
+Package pdftex.def Info: figures/research/haptic6.png used on input line 598.
+(pdftex.def)             Requested size: 82.51039pt x 142.26848pt.
+ [28 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/haptic3.
+png> <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/haptic4.
+png> <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/haptic5.
+png> <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/haptic6.
+png>]
+<figures/research/haptic7.jpg, id=150, 829.9005pt x 183.084pt>
+File: figures/research/haptic7.jpg Graphic file (type jpg)
+
+<use figures/research/haptic7.jpg>
+Package pdftex.def Info: figures/research/haptic7.jpg used on input line 598.
+(pdftex.def)             Requested size: 355.65991pt x 91.05008pt.
+
+Overfull \hbox (10.65991pt too wide) in paragraph at lines 598--598
+ [][] 
+ []
+
+
+LaTeX Warning: Reference `fig:haptic3' on page 29 undefined on input line 598.
+
+
+LaTeX Warning: Reference `fig:haptic3' on page 29 undefined on input line 598.
+
+
+LaTeX Warning: Reference `fig:haptic3' on page 29 undefined on input line 598.
+
+
+LaTeX Warning: Reference `fig:haptic3' on page 29 undefined on input line 598.
+
+[29 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/haptic7.j
+pg>]
+Overfull \hbox (0.25813pt too wide) in paragraph at lines 605--614
+\OT1/cmr/m/it/10 Partners: \OT1/cmr/m/n/10 Dept. of Cell and Molec-u-lar Bi-ol-
+ogy, Karolin-ska In-sti-tute; Sense-
+ []
+
+
+LaTeX Warning: Reference `fig::proviz' on page 30 undefined on input line 614.
+
+
+<figures/research/proviz_search_and_score_volumes.PNG, id=154, 649.2255pt x 318
+.59026pt>
+File: figures/research/proviz_search_and_score_volumes.PNG Graphic file (type p
+ng)
+ <use figures/research/proviz_search_and_score_volumes.PNG>
+Package pdftex.def Info: figures/research/proviz_search_and_score_volumes.PNG u
+sed on input line 618.
+(pdftex.def)             Requested size: 310.4979pt x 152.36739pt.
+ [30]
+Overfull \hbox (0.32658pt too wide) in paragraph at lines 627--634
+\OT1/cmr/m/it/10 Abstract: \OT1/cmr/m/n/10 Three-dimensional im-ages are widely
+ used in, for ex-am-ple, health
+ []
+
+
+LaTeX Warning: Reference `project:medical_segmentation' on page 31 undefined on
+ input line 647.
+
+
+LaTeX Warning: Reference `fig:interactive_image_registration' on page 31 undefi
+ned on input line 647.
+
+[31 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/proviz_se
+arch_and_score_volumes.PNG>]
+<figures/research/interactive_image_registration.png, id=163, 1100.11pt x 669.5
+0125pt>
+File: figures/research/interactive_image_registration.png Graphic file (type pn
+g)
+ <use figures/research/interactive_image_registration.png>
+Package pdftex.def Info: figures/research/interactive_image_registration.png us
+ed on input line 651.
+(pdftex.def)             Requested size: 224.2479pt x 136.47224pt.
+ [32 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/interact
+ive_image_registration.png>]
+Overfull \hbox (3.32463pt too wide) in paragraph at lines 659--666
+\OT1/cmr/m/n/10 used in medicine. This has lead to an ever in-creas-ing flow of
+ high-resolution,
+ []
+
+
+LaTeX Warning: Reference `project:interactive_segmentation' on page 33 undefine
+d on input line 666.
+
+
+LaTeX Warning: Reference `fig:smartpaint' on page 33 undefined on input line 66
+6.
+
+<figures/research/SP_Screenshot.png, id=167, 1267.73625pt x 803.0pt>
+File: figures/research/SP_Screenshot.png Graphic file (type png)
+
+<use figures/research/SP_Screenshot.png>
+Package pdftex.def Info: figures/research/SP_Screenshot.png used on input line 
+670.
+(pdftex.def)             Requested size: 207.0021pt x 131.11697pt.
+ [33 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/SP_Scree
+nshot.png>]
+<figures/research/orbit_project_figure1.png, id=171, 711.65875pt x 914.41624pt>
+File: figures/research/orbit_project_figure1.png Graphic file (type png)
+<use figures/research/orbit_project_figure1.png>
+Package pdftex.def Info: figures/research/orbit_project_figure1.png used on inp
+ut line 694.
+(pdftex.def)             Requested size: 213.39067pt x 256.07666pt.
+
+
+LaTeX Warning: Reference `fig:orbit1' on page 34 undefined on input line 694.
+
+
+LaTeX Warning: Reference `fig:orbit2' on page 34 undefined on input line 694.
+
+
+<figures/research/orbit_project_figure2.png, id=172, 1129.21875pt x 752.8125pt>
+File: figures/research/orbit_project_figure2.png Graphic file (type png)
+<use figures/research/orbit_project_figure2.png>
+Package pdftex.def Info: figures/research/orbit_project_figure2.png used on inp
+ut line 698.
+(pdftex.def)             Requested size: 310.4979pt x 206.99535pt.
+
+
+LaTeX Warning: Reference `fig:wrist' on page 34 undefined on input line 714.
+
+[34] [35 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/orbi
+t_project_figure1.png>]
+
+LaTeX Warning: Reference `fig:wrist' on page 36 undefined on input line 714.
+
+[36 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/orbit_pro
+ject_figure2.png>]
+<figures/research/wrist_project_figure1a.png, id=182, 249.2069pt x 401.72151pt>
+File: figures/research/wrist_project_figure1a.png Graphic file (type png)
+<use figures/research/wrist_project_figure1a.png>
+Package pdftex.def Info: figures/research/wrist_project_figure1a.png used on in
+put line 719.
+(pdftex.def)             Requested size: 137.9979pt x 222.4493pt.
+
+<figures/research/wrist_project_figure1b.png, id=183, 476.59135pt x 768.27568pt
+>
+File: figures/research/wrist_project_figure1b.png Graphic file (type png)
+ <use figures/research/wrist_project_figure1b.png>
+Package pdftex.def Info: figures/research/wrist_project_figure1b.png used on in
+put line 721.
+(pdftex.def)             Requested size: 137.9979pt x 222.45427pt.
+ [37 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/wrist_pr
+oject_figure1a.png> <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/re
+search/wrist_project_figure1b.png>] [38]
+Overfull \hbox (23.94508pt too wide) in paragraph at lines 784--785
+[]\OT1/cmr/m/n/10 We also sub-mit-ted a pa-per that de-scribes a method to com-
+bine the perturbation-
+ []
+
+[39
+
+] [40] [41] [42]
+
+LaTeX Warning: Reference `fig:pisa' on page 43 undefined on input line 892.
+
+<figures/research/foce_all.png, id=205, 264.99pt x 277.63725pt>
+File: figures/research/foce_all.png Graphic file (type png)
+
+<use figures/research/foce_all.png>
+Package pdftex.def Info: figures/research/foce_all.png used on input line 896.
+(pdftex.def)             Requested size: 207.0021pt x 216.88239pt.
+ [43
+
+] [44 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/foce_al
+l.png>] [45] [46]
+
+LaTeX Warning: Reference `fig:fishslu' on page 47 undefined on input line 946.
+
+<figures/research/fritjof.pdf, id=220, 318.18875pt x 198.7425pt>
+File: figures/research/fritjof.pdf Graphic file (type pdf)
+
+<use figures/research/fritjof.pdf>
+Package pdftex.def Info: figures/research/fritjof.pdf used on input line 950.
+(pdftex.def)             Requested size: 207.0021pt x 129.29329pt.
+ [47 <C:/Users/Omer/Desktop/2AFC Temporary/New folder/figures/research/fritjof.
+pdf>] [48]
+("C:\Users\Omer\Desktop\2AFC Temporary\New folder\AR2014_research.aux")
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2541 strings out of 493921
+ 38349 string characters out of 3144879
+ 81108 words of memory out of 3000000
+ 5784 multiletter control sequences out of 15000+200000
+ 8704 words of font info for 33 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 27i,12n,24p,1919b,436s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Omer\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\t
+crm1000.pk> <C:\Users\Omer\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
+\dpi600\tcbx1000.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmbxti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.
+pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on AR2014_research.pdf (48 pages, 21837484 bytes).
+PDF statistics:
+ 273 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 226 words of extra memory for PDF output out of 10000 (max. 10000000)
+
