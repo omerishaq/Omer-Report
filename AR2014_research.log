@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  18 FEB 2015 13:41
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  18 FEB 2015 13:55
 entering extended mode
 **AR2014_research.tex
 (C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.tex
@@ -580,10 +580,6 @@ Package pdftex.def Info: figures/research/gigapixel.png used on input line 543.
 (pdftex.def)             Requested size: 276.00105pt x 264.28403pt.
  [26 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/gigapixel.png
 >]
-
-LaTeX Warning: Reference `fig::haptics' on page 27 undefined on input line 569.
-
-
 <figures/research/haptics.png, id=136, 348.70274pt x 243.309pt>
 File: figures/research/haptics.png Graphic file (type png)
 
@@ -593,131 +589,118 @@ Package pdftex.def Info: figures/research/haptics.png used on input line 573.
  [27
 
 ]
-Overfull \hbox (0.25813pt too wide) in paragraph at lines 584--593
+Overfull \hbox (0.25813pt too wide) in paragraph at lines 584--591
 \OT1/cmr/m/it/10 Partners: \OT1/cmr/m/n/10 Dept. of Cell and Molec-u-lar Bi-ol-
 ogy, Karolin-ska In-sti-tute; Sense-
  []
 
 [28 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/haptics.png>]
-<figures/research/proviz_search_and_score_volumes.PNG, id=144, 649.2255pt x 318
-.59026pt>
-File: figures/research/proviz_search_and_score_volumes.PNG Graphic file (type p
-ng)
- <use figures/research/proviz_search_and_score_volumes.PNG>
-Package pdftex.def Info: figures/research/proviz_search_and_score_volumes.PNG u
-sed on input line 597.
-(pdftex.def)             Requested size: 310.4979pt x 152.36739pt.
- [29 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/proviz_search
-_and_score_volumes.PNG>]
-Overfull \hbox (0.32658pt too wide) in paragraph at lines 606--613
+Overfull \hbox (0.32658pt too wide) in paragraph at lines 597--604
 \OT1/cmr/m/it/10 Abstract: \OT1/cmr/m/n/10 Three-dimensional im-ages are widely
  used in, for ex-am-ple, health
  []
 
 
-<figures/research/interactive_image_registration.png, id=149, 1100.11pt x 669.5
+<figures/research/interactive_image_registration.png, id=144, 1100.11pt x 669.5
 0125pt>
 File: figures/research/interactive_image_registration.png Graphic file (type pn
 g)
  <use figures/research/interactive_image_registration.png>
 Package pdftex.def Info: figures/research/interactive_image_registration.png us
-ed on input line 630.
+ed on input line 621.
 (pdftex.def)             Requested size: 224.2479pt x 136.47224pt.
- [30]
-Overfull \hbox (3.32463pt too wide) in paragraph at lines 638--645
+ [29]
+Overfull \hbox (3.32463pt too wide) in paragraph at lines 629--636
 \OT1/cmr/m/n/10 used in medicine. This has lead to an ever in-creas-ing flow of
  high-resolution,
  []
 
-<figures/research/SP_Screenshot.png, id=153, 1267.73625pt x 803.0pt>
+<figures/research/SP_Screenshot.png, id=148, 1267.73625pt x 803.0pt>
 File: figures/research/SP_Screenshot.png Graphic file (type png)
 
 <use figures/research/SP_Screenshot.png>
 Package pdftex.def Info: figures/research/SP_Screenshot.png used on input line 
-649.
+640.
 (pdftex.def)             Requested size: 207.0021pt x 131.11697pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[31 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/interactive_im
+[30 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/interactive_im
 age_registration.png>]
-<figures/research/orbit_project_figure1.png, id=158, 711.65875pt x 914.41624pt>
+<figures/research/orbit_project_figure1.png, id=152, 711.65875pt x 914.41624pt>
 File: figures/research/orbit_project_figure1.png Graphic file (type png)
 <use figures/research/orbit_project_figure1.png>
 Package pdftex.def Info: figures/research/orbit_project_figure1.png used on inp
-ut line 673.
+ut line 664.
 (pdftex.def)             Requested size: 213.39067pt x 256.07666pt.
- [32 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/SP_Screenshot
-.png>] [33 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/orbit_p
+ [31 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/SP_Screenshot
+.png>] [32 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/orbit_p
 roject_figure1.png>]
-<figures/research/orbit_project_figure2.png, id=165, 1129.21875pt x 752.8125pt>
+<figures/research/orbit_project_figure2.png, id=160, 1129.21875pt x 752.8125pt>
 File: figures/research/orbit_project_figure2.png Graphic file (type png)
 <use figures/research/orbit_project_figure2.png>
 Package pdftex.def Info: figures/research/orbit_project_figure2.png used on inp
-ut line 677.
+ut line 668.
 (pdftex.def)             Requested size: 310.4979pt x 206.99535pt.
- [34 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/orbit_project
+ [33 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/orbit_project
 _figure2.png>]
-<figures/research/wrist_project_figure1a.png, id=169, 249.2069pt x 401.72151pt>
+<figures/research/wrist_project_figure1a.png, id=164, 249.2069pt x 401.72151pt>
 File: figures/research/wrist_project_figure1a.png Graphic file (type png)
 <use figures/research/wrist_project_figure1a.png>
 Package pdftex.def Info: figures/research/wrist_project_figure1a.png used on in
-put line 698.
+put line 689.
 (pdftex.def)             Requested size: 137.9979pt x 222.4493pt.
 
-<figures/research/wrist_project_figure1b.png, id=170, 476.59135pt x 768.27568pt
+<figures/research/wrist_project_figure1b.png, id=165, 476.59135pt x 768.27568pt
 >
 File: figures/research/wrist_project_figure1b.png Graphic file (type png)
  <use figures/research/wrist_project_figure1b.png>
 Package pdftex.def Info: figures/research/wrist_project_figure1b.png used on in
-put line 700.
+put line 691.
 (pdftex.def)             Requested size: 137.9979pt x 222.45427pt.
- [35] [36 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/wrist_pr
+ [34] [35 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/wrist_pr
 oject_figure1a.png> <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/researc
-h/wrist_project_figure1b.png>] [37]
-Overfull \hbox (23.94508pt too wide) in paragraph at lines 763--764
+h/wrist_project_figure1b.png>] [36]
+Overfull \hbox (23.94508pt too wide) in paragraph at lines 754--755
 []\OT1/cmr/m/n/10 We also sub-mit-ted a pa-per that de-scribes a method to com-
 bine the perturbation-
  []
 
-[38
+[37
 
-] [39] [40] [41]
-<figures/research/foce_all.png, id=195, 264.99pt x 277.63725pt>
+] [38] [39] [40]
+<figures/research/foce_all.png, id=190, 264.99pt x 277.63725pt>
 File: figures/research/foce_all.png Graphic file (type png)
 
 <use figures/research/foce_all.png>
-Package pdftex.def Info: figures/research/foce_all.png used on input line 875.
+Package pdftex.def Info: figures/research/foce_all.png used on input line 866.
 (pdftex.def)             Requested size: 207.0021pt x 216.88239pt.
- [42
+ [41
 
-] [43 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/foce_all.png
->] [44] [45]
-<figures/research/fritjof.pdf, id=210, 318.18875pt x 198.7425pt>
+] [42 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/foce_all.png
+>] [43] [44]
+<figures/research/fritjof.pdf, id=205, 318.18875pt x 198.7425pt>
 File: figures/research/fritjof.pdf Graphic file (type pdf)
 
 <use figures/research/fritjof.pdf>
-Package pdftex.def Info: figures/research/fritjof.pdf used on input line 929.
+Package pdftex.def Info: figures/research/fritjof.pdf used on input line 920.
 (pdftex.def)             Requested size: 207.0021pt x 129.29329pt.
- [46 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/fritjof.pdf>]
- [47]
+ [45 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/fritjof.pdf>]
+ [46]
 (C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.aux)
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 2511 strings out of 493921
- 37571 string characters out of 3144879
+ 2504 strings out of 493921
+ 37292 string characters out of 3144879
  80573 words of memory out of 3000000
- 5758 multiletter control sequences out of 15000+200000
+ 5753 multiletter control sequences out of 15000+200000
  8704 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,12n,24p,1919b,409s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,12n,24p,1919b,408s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Omer\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\t
 crm1000.pk> <C:\Users\Omer\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
 \dpi600\tcbx1000.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
@@ -730,9 +713,9 @@ r12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.
 pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on AR2014_research.pdf (47 pages, 21016288 bytes).
+Output written on AR2014_research.pdf (46 pages, 20896735 bytes).
 PDF statistics:
- 263 PDF objects out of 1000 (max. 8388607)
+ 258 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 196 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 191 words of extra memory for PDF output out of 10000 (max. 10000000)
 
