@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  19 FEB 2015 20:38
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  19 FEB 2015 20:44
 entering extended mode
 **AR2014_research.tex
 (C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.tex
@@ -619,48 +619,39 @@ Overfull \hbox (3.32463pt too wide) in paragraph at lines 629--638
  []
 
 [29] [30 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/Imiomics_
-example.png>]
-<figures/research/SP_screenshot.png, id=151, 1267.73625pt x 803.0pt>
-File: figures/research/SP_screenshot.png Graphic file (type png)
-
-<use figures/research/SP_screenshot.png>
-Package pdftex.def Info: figures/research/SP_screenshot.png used on input line 
-642.
-(pdftex.def)             Requested size: 345.0pt x 218.52829pt.
- [31 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/SP_screenshot
-.png>] [32]
-<figures/research/wrist_2014.png, id=159, 313.9228pt x 590.95781pt>
+example.png>] [31]
+<figures/research/wrist_2014.png, id=155, 313.9228pt x 590.95781pt>
 File: figures/research/wrist_2014.png Graphic file (type png)
 
 <use figures/research/wrist_2014.png>
 Package pdftex.def Info: figures/research/wrist_2014.png used on input line 674
 .
 (pdftex.def)             Requested size: 164.94127pt x 310.4979pt.
- [33 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/wrist_2014.pn
-g>] [34]
+ [32] [33 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/wrist_20
+14.png>]
 Overfull \hbox (23.94508pt too wide) in paragraph at lines 706--707
 []\OT1/cmr/m/n/10 We also sub-mit-ted a pa-per that de-scribes a method to com-
 bine the perturbation-
  []
 
-[35
+[34
 
 ]
 Missing character: There is no é in font cmr10!
- [36] [37]
+ [35] [36]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 819.
 
 
-<figures/research/cd03_0003_overlay_3d_gc.png, id=176, 262.9825pt x 174.6525pt>
+<figures/research/cd03_0003_overlay_3d_gc.png, id=171, 262.9825pt x 174.6525pt>
 File: figures/research/cd03_0003_overlay_3d_gc.png Graphic file (type png)
 <use figures/research/cd03_0003_overlay_3d_gc.png>
 Package pdftex.def Info: figures/research/cd03_0003_overlay_3d_gc.png used on i
 nput line 823.
 (pdftex.def)             Requested size: 165.59853pt x 109.98102pt.
 
-<figures/research/d03_0003_Reg_Overlay_0015_cut.png, id=177, 464.73625pt x 376.
+<figures/research/d03_0003_Reg_Overlay_0015_cut.png, id=172, 464.73625pt x 376.
 40625pt>
 File: figures/research/d03_0003_Reg_Overlay_0015_cut.png Graphic file (type png
 )
@@ -669,7 +660,7 @@ Package pdftex.def Info: figures/research/d03_0003_Reg_Overlay_0015_cut.png use
 d on input line 829.
 (pdftex.def)             Requested size: 165.59853pt x 134.12196pt.
 
-<figures/research/sa_09_10_cut_3d_reg_overlay_gc.png, id=178, 268.00125pt x 167
+<figures/research/sa_09_10_cut_3d_reg_overlay_gc.png, id=173, 268.00125pt x 167
 .62625pt>
 File: figures/research/sa_09_10_cut_3d_reg_overlay_gc.png Graphic file (type pn
 g)
@@ -678,7 +669,7 @@ Package pdftex.def Info: figures/research/sa_09_10_cut_3d_reg_overlay_gc.png us
 ed on input line 834.
 (pdftex.def)             Requested size: 165.59853pt x 103.57677pt.
 
-<figures/research/SA_09_10_cut_Reg_Overlay_0056_cut.png, id=179, 464.73625pt x 
+<figures/research/SA_09_10_cut_Reg_Overlay_0056_cut.png, id=174, 464.73625pt x 
 376.40625pt>
 File: figures/research/SA_09_10_cut_Reg_Overlay_0056_cut.png Graphic file (type
  png)
@@ -687,24 +678,24 @@ Package pdftex.def Info: figures/research/SA_09_10_cut_Reg_Overlay_0056_cut.png
  used on input line 840.
 (pdftex.def)             Requested size: 165.59853pt x 134.12196pt.
 
-[38] [39 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/cd03_0003
+[37] [38 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/cd03_0003
 _overlay_3d_gc.png (PNG copy)> <C:/Users/Omer/Documents/GitHub/Omer-Report/figu
 res/research/d03_0003_Reg_Overlay_0015_cut.png (PNG copy)> <C:/Users/Omer/Docum
 ents/GitHub/Omer-Report/figures/research/sa_09_10_cut_3d_reg_overlay_gc.png (PN
 G copy)> <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/SA_09_10_
-cut_Reg_Overlay_0056_cut.png (PNG copy)>] [40
+cut_Reg_Overlay_0056_cut.png (PNG copy)>] [39
 
-] [41] [42]
+] [40] [41]
 (C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2493 strings out of 493921
- 37136 string characters out of 3144879
- 80523 words of memory out of 3000000
- 5743 multiletter control sequences out of 15000+200000
+ 2487 strings out of 493921
+ 36952 string characters out of 3144879
+ 80513 words of memory out of 3000000
+ 5738 multiletter control sequences out of 15000+200000
  8704 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,8n,24p,1911b,393s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -720,9 +711,9 @@ r12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.
 pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on AR2014_research.pdf (42 pages, 19173701 bytes).
+Output written on AR2014_research.pdf (41 pages, 18871465 bytes).
 PDF statistics:
- 237 PDF objects out of 1000 (max. 8388607)
+ 233 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 186 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 181 words of extra memory for PDF output out of 10000 (max. 10000000)
 
