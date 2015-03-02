@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  2 MAR 2015 15:35
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  2 MAR 2015 15:51
 entering extended mode
 **AR2014_research.tex
 (C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.tex
@@ -263,6 +263,10 @@ s biomedicine,
 
 LaTeX Warning: Reference `partners' on page 1 undefined on input line 34.
 
+
+LaTeX Warning: Reference `fig:diffraction' on page 1 undefined on input line 52
+.
+
 <figures/research/org.png, id=1, 804.00375pt x 402.50375pt>
 File: figures/research/org.png Graphic file (type png)
 
@@ -291,14 +295,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--100
  []
 
 [3] [4]
+
+LaTeX Warning: Reference `proj:PVS1' on page 5 undefined on input line 137.
+
+
 Overfull \hbox (0.24129pt too wide) in paragraph at lines 132--138
 []\OT1/cmr/bx/n/10 Identification of Highly Pathogenic Viruses in Trans-mis-sio
 n Elec-
  []
 
+
+LaTeX Warning: Reference `fig:miniTEM' on page 5 undefined on input line 153.
+
 [5
 
-] <figures/research/miniTEMLarge.png, id=27, 1626.075pt x 1025.33063pt>
+]
+
+LaTeX Warning: Reference `fig:miniTEM' on page 6 undefined on input line 153.
+
+<figures/research/miniTEMLarge.png, id=27, 1626.075pt x 1025.33063pt>
 File: figures/research/miniTEMLarge.png Graphic file (type png)
 
 <use figures/research/miniTEMLarge.png>
@@ -328,6 +343,10 @@ ion mi-croscopy (STORM) is a super-
 [6 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/miniTEMLarge.pn
 g> <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/miniTEMnanotubu
 lescutwider.png>]
+
+LaTeX Warning: Reference `fig:carolina_insitu' on page 7 undefined on input lin
+e 181.
+
 <figures/research/insitu.png, id=33, 428.802pt x 324.61275pt>
 File: figures/research/insitu.png Graphic file (type png)
 
@@ -341,6 +360,9 @@ s-son, Ola Soderberg, Dept. of
  []
 
 [7 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/insitu.png>]
+
+LaTeX Warning: Reference `fig:Skeleton' on page 8 undefined on input line 211.
+
 <figures/research/kristina_fibula.png, id=39, 682.59015pt x 902.29095pt>
 File: figures/research/kristina_fibula.png Graphic file (type png)
 
@@ -348,6 +370,11 @@ File: figures/research/kristina_fibula.png Graphic file (type png)
 Package pdftex.def Info: figures/research/kristina_fibula.png used on input lin
 e 215.
 (pdftex.def)             Requested size: 241.84729pt x 295.89827pt.
+
+
+LaTeX Warning: Reference `fig::stem_cells' on page 8 undefined on input line 22
+8.
+
 
 Overfull \hbox (0.73502pt too wide) in paragraph at lines 223--229
 \OT1/cmr/m/it/10 Partners: \OT1/cmr/m/n/10 Karin Forsberg-Nilsson, Tanja Paav-i
@@ -368,7 +395,11 @@ File: figures/research/stem2.png Graphic file (type png)
 <use figures/research/stem2.png>
 Package pdftex.def Info: figures/research/stem2.png used on input line 233.
 (pdftex.def)             Requested size: 137.9979pt x 103.53134pt.
- [10
+
+
+LaTeX Warning: Reference `fig:cornea' on page 10 undefined on input line 271.
+
+[10
 
  <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/stem1.png> <C:/Us
 ers/Omer/Documents/GitHub/Omer-Report/figures/research/stem2.png>]
@@ -389,8 +420,12 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 277.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 ) [11 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/corneal_epit
-helium.png (PNG copy)>] [12] <figures/research/cerviscan.png, id=61, 515.2851pt
- x 447.5922pt>
+helium.png (PNG copy)>]
+
+LaTeX Warning: Reference `fig:cerviscan' on page 12 undefined on input line 293
+.
+
+[12] <figures/research/cerviscan.png, id=61, 515.2851pt x 447.5922pt>
 File: figures/research/cerviscan.png Graphic file (type png)
 
 <use figures/research/cerviscan.png>
@@ -406,7 +441,11 @@ Overfull \hbox (1.99226pt too wide) in paragraph at lines 362--373
 -MER pro-gramme, Swedish
  []
 
-[15] <figures/research/M1001cut.png, id=72, 578.16pt x 433.62pt>
+[15]
+
+LaTeX Warning: Reference `testis' on page 16 undefined on input line 383.
+
+<figures/research/M1001cut.png, id=72, 578.16pt x 433.62pt>
 File: figures/research/M1001cut.png Graphic file (type png)
 
 <use figures/research/M1001cut.png>
@@ -424,8 +463,21 @@ File: figures/research/prostate2.png Graphic file (type png)
 Package pdftex.def Info: figures/research/prostate2.png used on input line 437.
 
 (pdftex.def)             Requested size: 327.74895pt x 218.20883pt.
- [18 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/prostate2.png
->] [19]
+
+
+LaTeX Warning: Reference `fig:prostate2' on page 18 undefined on input line 437
+.
+
+[18 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/prostate2.png>
+] [19]
+
+LaTeX Warning: Reference `fig:prostate3' on page 20 undefined on input line 437
+.
+
+
+LaTeX Warning: Reference `fig:prostate4' on page 20 undefined on input line 437
+.
+
 <figures/research/prostate3.jpg, id=89, 142.8975pt x 150.453pt>
 File: figures/research/prostate3.jpg Graphic file (type jpg)
 
@@ -443,6 +495,11 @@ Package pdftex.def Info: figures/research/prostate4.jpg used on input line 447.
 (pdftex.def)             Requested size: 310.4979pt x 152.82785pt.
  [20 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/prostate3.jpg
 >]
+
+LaTeX Warning: Reference `fig::zebrafish_curvature' on page 21 undefined on inp
+ut line 460.
+
+
 Overfull \hbox (5.59682pt too wide) in paragraph at lines 455--461
 []\OT1/cmr/bx/n/10 Automated Quan-tifi-ca-tion of Ze-brafish Tail De-for-ma-tio
 n for High-
@@ -501,9 +558,12 @@ File: figures/research/curvature6.png Graphic file (type png)
 Package pdftex.def Info: figures/research/curvature6.png used on input line 470
 .
 (pdftex.def)             Requested size: 103.50105pt x 82.82947pt.
- [21 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/prostate4.jpg
->]
-<figures/research/lipid1.png, id=103, 515.9275pt x 513.92pt>
+
+
+LaTeX Warning: Reference `fig:hamid' on page 21 undefined on input line 483.
+
+[21 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/prostate4.jpg>
+] <figures/research/lipid1.png, id=103, 515.9275pt x 513.92pt>
 File: figures/research/lipid1.png Graphic file (type png)
 
 <use figures/research/lipid1.png>
@@ -523,8 +583,16 @@ C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/curvature4.png> <C:
 /Users/Omer/Documents/GitHub/Omer-Report/figures/research/curvature5.png> <C:/U
 sers/Omer/Documents/GitHub/Omer-Report/figures/research/curvature6.png> <C:/Use
 rs/Omer/Documents/GitHub/Omer-Report/figures/research/lipid1.png> <C:/Users/Ome
-r/Documents/GitHub/Omer-Report/figures/research/lipid2.png>] <figures/research/
-zf1.png, id=110, 109.719pt x 264.771pt>
+r/Documents/GitHub/Omer-Report/figures/research/lipid2.png>]
+
+LaTeX Warning: Reference `fig::tomography_fish' on page 23 undefined on input l
+ine 501.
+
+
+LaTeX Warning: Reference `fig::tomography_cell' on page 23 undefined on input l
+ine 501.
+
+<figures/research/zf1.png, id=110, 109.719pt x 264.771pt>
 File: figures/research/zf1.png Graphic file (type png)
 
 <use figures/research/zf1.png>
@@ -571,7 +639,12 @@ s/Omer/Documents/GitHub/Omer-Report/figures/research/zf3.png> <C:/Users/Omer/Do
 cuments/GitHub/Omer-Report/figures/research/zf4.png> <C:/Users/Omer/Documents/G
 itHub/Omer-Report/figures/research/cell1.png> <C:/Users/Omer/Documents/GitHub/O
 mer-Report/figures/research/cell2.png>]
-[25] <figures/research/gigapixel.png, id=131, 816.04875pt x 781.41937pt>
+[25]
+
+LaTeX Warning: Reference `fig:gigapixel' on page 26 undefined on input line 539
+.
+
+<figures/research/gigapixel.png, id=131, 816.04875pt x 781.41937pt>
 File: figures/research/gigapixel.png Graphic file (type png)
 
 <use figures/research/gigapixel.png>
@@ -580,6 +653,10 @@ Package pdftex.def Info: figures/research/gigapixel.png used on input line 543.
 (pdftex.def)             Requested size: 276.00105pt x 264.28403pt.
  [26 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/gigapixel.png
 >]
+
+LaTeX Warning: Reference `fig::haptics' on page 27 undefined on input line 569.
+
+
 <figures/research/haptics.png, id=136, 348.70274pt x 243.309pt>
 File: figures/research/haptics.png Graphic file (type png)
 
@@ -600,9 +677,17 @@ Overfull \hbox (0.32658pt too wide) in paragraph at lines 597--605
  used in, for ex-am-ple, health
  []
 
+
+LaTeX Warning: Reference `project:medical_segmentation' on page 29 undefined on
+ input line 618.
+
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
+
+LaTeX Warning: Reference `fig:imiomics' on page 29 undefined on input line 618.
+
+
 <figures/research/Imiomics_example.png, id=144, 327.47343pt x 337.26pt>
 File: figures/research/Imiomics_example.png Graphic file (type png)
 
@@ -620,6 +705,9 @@ Overfull \hbox (3.32463pt too wide) in paragraph at lines 629--638
 
 [29] [30 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/Imiomics_
 example.png>] [31]
+
+LaTeX Warning: Reference `fig:wrist' on page 32 undefined on input line 670.
+
 <figures/research/wrist_2014.png, id=155, 313.9228pt x 590.95781pt>
 File: figures/research/wrist_2014.png Graphic file (type png)
 
@@ -629,25 +717,38 @@ Package pdftex.def Info: figures/research/wrist_2014.png used on input line 674
 (pdftex.def)             Requested size: 164.94127pt x 310.4979pt.
  [32]
 Missing character: There is no ç in font cmr10!
+Missing character: There is no ç in font cmr10!
+
+
+LaTeX Warning: Reference `fig:regone' on page 33 undefined on input line 696.
+
+
+LaTeX Warning: Reference `fig:regtwo' on page 33 undefined on input line 696.
 
 <figures/research/features.pdf, id=159, 482.5536pt x 180.675pt>
 File: figures/research/features.pdf Graphic file (type pdf)
 
 <use figures/research/features.pdf>
-Package pdftex.def Info: figures/research/features.pdf used on input line 697.
+Package pdftex.def Info: figures/research/features.pdf used on input line 700.
 (pdftex.def)             Requested size: 276.00105pt x 103.34145pt.
 
 <figures/research/regiresult.pdf, id=160, 240.90102pt x 180.675pt>
 File: figures/research/regiresult.pdf Graphic file (type pdf)
 
 <use figures/research/regiresult.pdf>
-Package pdftex.def Info: figures/research/regiresult.pdf used on input line 703
+Package pdftex.def Info: figures/research/regiresult.pdf used on input line 706
 .
 (pdftex.def)             Requested size: 276.00105pt x 207.01923pt.
- [33 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/wrist_2014.pn
-g>] [34 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/features.p
-df> <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/regiresult.pdf
 
+
+LaTeX Warning: Reference `fig:arcomp' on page 33 undefined on input line 710.
+
+
+LaTeX Warning: Reference `fig:arlab' on page 33 undefined on input line 710.
+
+[33 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/wrist_2014.png
+>] [34 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/features.pd
+f> <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/regiresult.pdf
 
 pdfTeX warning: pdflatex.exe (file C:/Users/Omer/Documents/GitHub/Omer-Report/f
 igures/research/regiresult.pdf): PDF inclusion: multiple pdfs with page group i
@@ -656,18 +757,18 @@ ncluded in a single page
 File: figures/research/arapp.jpg Graphic file (type jpg)
 
 <use figures/research/arapp.jpg>
-Package pdftex.def Info: figures/research/arapp.jpg used on input line 719.
+Package pdftex.def Info: figures/research/arapp.jpg used on input line 714.
 (pdftex.def)             Requested size: 276.00105pt x 206.9994pt.
 
 <figures/research/lab.jpg, id=184, 2055.68pt x 1541.76pt>
 File: figures/research/lab.jpg Graphic file (type jpg)
 
 <use figures/research/lab.jpg>
-Package pdftex.def Info: figures/research/lab.jpg used on input line 725.
+Package pdftex.def Info: figures/research/lab.jpg used on input line 720.
 (pdftex.def)             Requested size: 276.00105pt x 206.9994pt.
  [35 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/arapp.jpg>] [
 36 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/lab.jpg>]
-Overfull \hbox (23.94508pt too wide) in paragraph at lines 749--750
+Overfull \hbox (23.94508pt too wide) in paragraph at lines 744--745
 []\OT1/cmr/m/n/10 We also sub-mit-ted a pa-per that de-scribes a method to com-
 bine the perturbation-
  []
@@ -678,15 +779,18 @@ bine the perturbation-
 Missing character: There is no é in font cmr10!
  [38] [39]
 
+LaTeX Warning: Reference `fig:realct' on page 40 undefined on input line 855.
+
+
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 862.
+               Default added (so using `tbp') on input line 857.
 
 
 <figures/research/cd03_0003_overlay_3d_gc.png, id=201, 262.9825pt x 174.6525pt>
 File: figures/research/cd03_0003_overlay_3d_gc.png Graphic file (type png)
 <use figures/research/cd03_0003_overlay_3d_gc.png>
 Package pdftex.def Info: figures/research/cd03_0003_overlay_3d_gc.png used on i
-nput line 866.
+nput line 861.
 (pdftex.def)             Requested size: 165.59853pt x 109.98102pt.
 
 <figures/research/d03_0003_Reg_Overlay_0015_cut.png, id=202, 464.73625pt x 376.
@@ -695,7 +799,7 @@ File: figures/research/d03_0003_Reg_Overlay_0015_cut.png Graphic file (type png
 )
  <use figures/research/d03_0003_Reg_Overlay_0015_cut.png>
 Package pdftex.def Info: figures/research/d03_0003_Reg_Overlay_0015_cut.png use
-d on input line 872.
+d on input line 867.
 (pdftex.def)             Requested size: 165.59853pt x 134.12196pt.
 
 <figures/research/sa_09_10_cut_3d_reg_overlay_gc.png, id=203, 268.00125pt x 167
@@ -704,7 +808,7 @@ File: figures/research/sa_09_10_cut_3d_reg_overlay_gc.png Graphic file (type pn
 g)
  <use figures/research/sa_09_10_cut_3d_reg_overlay_gc.png>
 Package pdftex.def Info: figures/research/sa_09_10_cut_3d_reg_overlay_gc.png us
-ed on input line 877.
+ed on input line 872.
 (pdftex.def)             Requested size: 165.59853pt x 103.57677pt.
 
 <figures/research/SA_09_10_cut_Reg_Overlay_0056_cut.png, id=204, 464.73625pt x 
@@ -713,10 +817,10 @@ File: figures/research/SA_09_10_cut_Reg_Overlay_0056_cut.png Graphic file (type
  png)
  <use figures/research/SA_09_10_cut_Reg_Overlay_0056_cut.png>
 Package pdftex.def Info: figures/research/SA_09_10_cut_Reg_Overlay_0056_cut.png
- used on input line 883.
+ used on input line 878.
 (pdftex.def)             Requested size: 165.59853pt x 134.12196pt.
 
-Overfull \hbox (0.61374pt too wide) in paragraph at lines 898--904
+Overfull \hbox (0.61374pt too wide) in paragraph at lines 893--899
 \OT1/cmr/m/it/10 Funding: \OT1/cmr/m/n/10 Stock-holm Uni-ver-sity; The Royal In
 -sti-tute of Tech-nol-ogy (KTH);
  []
@@ -727,11 +831,17 @@ res/research/d03_0003_Reg_Overlay_0015_cut.png (PNG copy)> <C:/Users/Omer/Docum
 ents/GitHub/Omer-Report/figures/research/sa_09_10_cut_3d_reg_overlay_gc.png (PN
 G copy)> <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/SA_09_10_
 cut_Reg_Overlay_0056_cut.png (PNG copy)>] [42]
+
+LaTeX Warning: Reference `fig:OCR2' on page 43 undefined on input line 945.
+
+
+LaTeX Warning: Reference `fig:OCR1' on page 43 undefined on input line 945.
+
 <figures/research/BgFgClus.png, id=215, 2303.004pt x 2654.718pt>
 File: figures/research/BgFgClus.png Graphic file (type png)
 
 <use figures/research/BgFgClus.png>
-Package pdftex.def Info: figures/research/BgFgClus.png used on input line 954.
+Package pdftex.def Info: figures/research/BgFgClus.png used on input line 949.
 (pdftex.def)             Requested size: 276.00105pt x 318.14734pt.
 
 <figures/research/word_cloud_washington.png, id=216, 481.8pt x 385.44pt>
@@ -739,26 +849,29 @@ File: figures/research/word_cloud_washington.png Graphic file (type png)
 
 <use figures/research/word_cloud_washington.png>
 Package pdftex.def Info: figures/research/word_cloud_washington.png used on inp
-ut line 960.
+ut line 955.
 (pdftex.def)             Requested size: 276.00105pt x 220.80876pt.
  [43
 
 ] [44 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/BgFgClus.png
 >] [45 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/word_cloud_
 washington.png>] [46]
-[47] (C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.aux)
+(C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 2529 strings out of 493921
- 38000 string characters out of 3144879
- 80593 words of memory out of 3000000
- 5772 multiletter control sequences out of 15000+200000
+ 2528 strings out of 493921
+ 37987 string characters out of 3144879
+ 80108 words of memory out of 3000000
+ 5771 multiletter control sequences out of 15000+200000
  9323 words of font info for 35 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,8n,24p,1911b,393s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,8n,24p,1911b,419s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Omer\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\t
 crm1000.pk> <C:\Users\Omer\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
 \dpi600\tcbx1000.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
@@ -772,9 +885,9 @@ r10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
 ><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on AR2014_research.pdf (47 pages, 23671255 bytes).
+Output written on AR2014_research.pdf (46 pages, 23670853 bytes).
 PDF statistics:
- 280 PDF objects out of 1000 (max. 8388607)
+ 277 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  211 words of extra memory for PDF output out of 10000 (max. 10000000)
 
