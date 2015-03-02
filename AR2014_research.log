@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  2 MAR 2015 12:59
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  2 MAR 2015 15:23
 entering extended mode
 **AR2014_research.tex
 (C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.tex
@@ -716,25 +716,30 @@ Package pdftex.def Info: figures/research/SA_09_10_cut_Reg_Overlay_0056_cut.png
  used on input line 883.
 (pdftex.def)             Requested size: 165.59853pt x 134.12196pt.
 
+Overfull \hbox (0.61374pt too wide) in paragraph at lines 898--904
+\OT1/cmr/m/it/10 Funding: \OT1/cmr/m/n/10 Stock-holm Uni-ver-sity; The Royal In
+-sti-tute of Tech-nol-ogy (KTH);
+ []
+
 [40] [41 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/cd03_0003
 _overlay_3d_gc.png (PNG copy)> <C:/Users/Omer/Documents/GitHub/Omer-Report/figu
 res/research/d03_0003_Reg_Overlay_0015_cut.png (PNG copy)> <C:/Users/Omer/Docum
 ents/GitHub/Omer-Report/figures/research/sa_09_10_cut_3d_reg_overlay_gc.png (PN
 G copy)> <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/SA_09_10_
-cut_Reg_Overlay_0056_cut.png (PNG copy)>] [42
+cut_Reg_Overlay_0056_cut.png (PNG copy)>] [42] [43
 
-] [43] [44]
+] [44] [45]
 (C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2513 strings out of 493921
- 37583 string characters out of 3144879
+ 2517 strings out of 493921
+ 37621 string characters out of 3144879
  80573 words of memory out of 3000000
- 5760 multiletter control sequences out of 15000+200000
- 8704 words of font info for 33 fonts, out of 3000000 for 9000
+ 5762 multiletter control sequences out of 15000+200000
+ 9323 words of font info for 35 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,8n,24p,1911b,393s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Omer\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\t
@@ -744,14 +749,15 @@ nts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmbxti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-r12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.
-pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on AR2014_research.pdf (44 pages, 22160338 bytes).
+/cmmi7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
+.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb
+><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on AR2014_research.pdf (45 pages, 22170964 bytes).
 PDF statistics:
- 263 PDF objects out of 1000 (max. 8388607)
+ 270 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  201 words of extra memory for PDF output out of 10000 (max. 10000000)
 
