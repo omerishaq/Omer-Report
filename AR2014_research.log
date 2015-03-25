@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  23 MAR 2015 18:08
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.30)  25 MAR 2015 15:42
 entering extended mode
 **AR2014_research.tex
 (C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.tex
@@ -622,134 +622,139 @@ File: figures/research/Arabidopsis.jpg Graphic file (type jpg)
 Package pdftex.def Info: figures/research/Arabidopsis.jpg used on input line 65
 0.
 (pdftex.def)             Requested size: 165.59853pt x 165.58698pt.
-
-Overfull \hbox (12.30495pt too wide) in paragraph at lines 658--664
+ [33 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/Arabidopsis.j
+pg>]
+Overfull \hbox (12.30495pt too wide) in paragraph at lines 667--673
 \OT1/cmr/m/n/12 Anders Brun, Ew-ert Bengts-son, Fredrik Wahlberg, Tomas Wilkin-
 
  []
 
-[33 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/Arabidopsis.jp
-g>] <figures/research/word_cloud_washington.png, id=207, 481.8pt x 385.44pt>
+<figures/research/word_cloud_washington.png, id=207, 481.8pt x 385.44pt>
 File: figures/research/word_cloud_washington.png Graphic file (type png)
 
 <use figures/research/word_cloud_washington.png>
 Package pdftex.def Info: figures/research/word_cloud_washington.png used on inp
-ut line 667.
+ut line 676.
 (pdftex.def)             Requested size: 207.0021pt x 165.6007pt.
 
 <figures/research/BgFgClus.png, id=208, 2303.004pt x 2654.718pt>
 File: figures/research/BgFgClus.png Graphic file (type png)
 
 <use figures/research/BgFgClus.png>
-Package pdftex.def Info: figures/research/BgFgClus.png used on input line 673.
+Package pdftex.def Info: figures/research/BgFgClus.png used on input line 682.
 (pdftex.def)             Requested size: 207.0021pt x 238.59026pt.
 
-Overfull \hbox (12.55495pt too wide) in paragraph at lines 679--683
+Overfull \hbox (12.55495pt too wide) in paragraph at lines 688--692
 \OT1/cmr/m/n/12 arda, Mat-teo Abrate, Clara Bac-ciu, Da-vide Gazze, Ser-gio Bi
 anchi,
  []
 
 [34 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/word_cloud_was
 hington.png>] [35 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/
-BgFgClus.png>] [36]
-Overfull \hbox (2.30827pt too wide) in paragraph at lines 717--724
+BgFgClus.png>] [36] [37]
+Overfull \hbox (2.30827pt too wide) in paragraph at lines 733--740
 \OT1/cmr/m/n/12 sity of Tech-nol-ogy, Lulea; Sebastien Lefevre, Uni-ver-sity
  of South
  []
 
 
-Overfull \hbox (9.14989pt too wide) in paragraph at lines 717--724
+Overfull \hbox (9.14989pt too wide) in paragraph at lines 733--740
 \OT1/cmr/m/n/12 Brit-tany, Vannes, France; Jesus An-gulo, San-ti-ago Velasco-F
 orero,
  []
 
 
-Overfull \hbox (45.62135pt too wide) in paragraph at lines 717--724
+Overfull \hbox (45.62135pt too wide) in paragraph at lines 733--740
 \OT1/cmr/m/n/12 Cen-tre for Math-e-mat-i-cal Mor-phol-ogy, MINES Paris-Tech, Fo
 ntainebleau,
  []
 
 
-Overfull \hbox (14.25726pt too wide) in paragraph at lines 717--724
+Overfull \hbox (14.25726pt too wide) in paragraph at lines 733--740
 \OT1/cmr/m/it/12 Funding: \OT1/cmr/m/n/12 Grad-u-ate School in Math-e-mat-ics a
 nd Com-put-ing (FMB) 
  []
 
-[37] [38]
-Overfull \hbox (17.52112pt too wide) in paragraph at lines 755--781
+[38] [39]
+Overfull \hbox (17.52112pt too wide) in paragraph at lines 771--797
 \OT1/cmr/m/it/12 Funding: \OT1/cmr/m/n/12 Grad-u-ate School in Math-e-mat-ics a
 nd Com-put-ing (FMB);
  []
 
-[39] [40] [41]
+[40] [41] [42]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 821.
+               Default added (so using `tbp') on input line 837.
 
 
-<figures/research/cd03_0003_overlay_3d_gc.png, id=238, 262.9825pt x 174.6525pt>
+<figures/research/cd03_0003_overlay_3d_gc.png, id=241, 262.9825pt x 174.6525pt>
 File: figures/research/cd03_0003_overlay_3d_gc.png Graphic file (type png)
 <use figures/research/cd03_0003_overlay_3d_gc.png>
 Package pdftex.def Info: figures/research/cd03_0003_overlay_3d_gc.png used on i
-nput line 825.
+nput line 841.
 (pdftex.def)             Requested size: 144.89937pt x 96.23505pt.
 
-<figures/research/d03_0003_Reg_Overlay_0015_cut.png, id=239, 464.73625pt x 376.
+<figures/research/d03_0003_Reg_Overlay_0015_cut.png, id=242, 464.73625pt x 376.
 40625pt>
 File: figures/research/d03_0003_Reg_Overlay_0015_cut.png Graphic file (type png
 )
  <use figures/research/d03_0003_Reg_Overlay_0015_cut.png>
 Package pdftex.def Info: figures/research/d03_0003_Reg_Overlay_0015_cut.png use
-d on input line 831.
+d on input line 847.
 (pdftex.def)             Requested size: 144.89937pt x 117.3567pt.
 
-<figures/research/sa_09_10_cut_3d_reg_overlay_gc.png, id=240, 268.00125pt x 167
+<figures/research/sa_09_10_cut_3d_reg_overlay_gc.png, id=243, 268.00125pt x 167
 .62625pt>
 File: figures/research/sa_09_10_cut_3d_reg_overlay_gc.png Graphic file (type pn
 g)
  <use figures/research/sa_09_10_cut_3d_reg_overlay_gc.png>
 Package pdftex.def Info: figures/research/sa_09_10_cut_3d_reg_overlay_gc.png us
-ed on input line 836.
+ed on input line 852.
 (pdftex.def)             Requested size: 144.89937pt x 90.62935pt.
 
-<figures/research/SA_09_10_cut_Reg_Overlay_0056_cut.png, id=241, 464.73625pt x 
+<figures/research/SA_09_10_cut_Reg_Overlay_0056_cut.png, id=244, 464.73625pt x 
 376.40625pt>
 File: figures/research/SA_09_10_cut_Reg_Overlay_0056_cut.png Graphic file (type
  png)
  <use figures/research/SA_09_10_cut_Reg_Overlay_0056_cut.png>
 Package pdftex.def Info: figures/research/SA_09_10_cut_Reg_Overlay_0056_cut.png
- used on input line 842.
+ used on input line 858.
 (pdftex.def)             Requested size: 144.89937pt x 117.3567pt.
 
-[42 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/cd03_0003_over
+[43 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/cd03_0003_over
 lay_3d_gc.png (PNG copy)> <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/r
 esearch/d03_0003_Reg_Overlay_0015_cut.png (PNG copy)> <C:/Users/Omer/Documents/
 GitHub/Omer-Report/figures/research/sa_09_10_cut_3d_reg_overlay_gc.png (PNG cop
 y)> <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/SA_09_10_cut_R
 eg_Overlay_0056_cut.png (PNG copy)>]
-<figures/research/fig1new.png, id=245, 1311.39937pt x 793.46437pt>
-File: figures/research/fig1new.png Graphic file (type png)
-
-<use figures/research/fig1new.png>
-Package pdftex.def Info: figures/research/fig1new.png used on input line 868.
-(pdftex.def)             Requested size: 207.0021pt x 125.23766pt.
-
-<figures/research/CoveringUFloor.png, id=246, 355.5684pt x 160.4394pt>
+<figures/research/CoveringUFloor.png, id=249, 355.5684pt x 160.4394pt>
 File: figures/research/CoveringUFloor.png Graphic file (type png)
 
 <use figures/research/CoveringUFloor.png>
 Package pdftex.def Info: figures/research/CoveringUFloor.png used on input line
- 874.
-(pdftex.def)             Requested size: 207.0021pt x 93.40254pt.
- [43 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/fig1new.png>]
+ 884.
+(pdftex.def)             Requested size: 276.00105pt x 124.53754pt.
+
+Overfull \hbox (1.75085pt too wide) in paragraph at lines 891--897
+\OT1/cmr/m/n/12 du-al-ity be-tween classes of func-tions with cer-tain con-vex-
+ity prop-
+ []
+
+<figures/research/fig1new.png, id=250, 1311.39937pt x 793.46437pt>
+File: figures/research/fig1new.png Graphic file (type png)
+
+<use figures/research/fig1new.png>
+Package pdftex.def Info: figures/research/fig1new.png used on input line 900.
+(pdftex.def)             Requested size: 276.00105pt x 166.99565pt.
  [44 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/CoveringUFloo
-r.png>]
-Overfull \hbox (1.51852pt too wide) in paragraph at lines 899--909
+r.png>] [45 <C:/Users/Omer/Documents/GitHub/Omer-Report/figures/research/fig1ne
+w.png>]
+Overfull \hbox (1.51852pt too wide) in paragraph at lines 925--935
 \OT1/cmr/m/it/12 Abstract: \OT1/cmr/m/n/12 We study solv-abil-ity of con-vo-lu-
 tion equa-tions for func-
  []
 
-[45] [46] (C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.aux)
+[46] [47] (C:\Users\Omer\Documents\GitHub\Omer-Report\AR2014_research.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -780,9 +785,9 @@ ts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
 cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
 tt12.pfb>
-Output written on AR2014_research.pdf (46 pages, 13093835 bytes).
+Output written on AR2014_research.pdf (47 pages, 13096340 bytes).
 PDF statistics:
- 307 PDF objects out of 1000 (max. 8388607)
+ 310 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  151 words of extra memory for PDF output out of 10000 (max. 10000000)
 
